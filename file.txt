@@ -1,0 +1,7 @@
+Employee ID:
+Employee Name     :
+Father's Name     :
+Employee Contact  :
+Email Information :
+Employee position :
+Employee Salary   :
